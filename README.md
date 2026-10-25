@@ -2,8 +2,6 @@
 
 Lab notes, example code, and saved outputs for data visualization using Python, R, and Tableau Public.
 
-Maintained by **Achari Ganesh** · [ganesh002-prog](https://github.com/ganesh002-prog)
-
 ## Experiments
 
 | No. | Experiment | Folder |
