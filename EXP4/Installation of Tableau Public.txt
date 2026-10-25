@@ -1,0 +1,162 @@
+//Experiment:4
+Installation of Tableau Public
+
+//Aim:
+To study Tableau, its features, products, interface, data concepts and visualization techniques, and to install Tableau Public for creating interactive visualizations.
+
+//Description
+Tableau is a powerful data visualization tool used to analyse and represent data in a graphical format.
+It allows users to connect different data sources, prepare data and create charts, graphs, maps and interactive dashboards using a simple drag-and-drop interface.
+Tableau provides various features such as filters, calculated fields, tooltips and data aggregation to make data analysis easier. 
+Its main components include worksheets, dashboards and stories, which help users organize and present analytical results effectively.
+
+//Introduction to Tableau
+Tableau is a visual analytics and business intelligence tool used to connect, analyse and present data through interactive visualizations.
+It helps users convert raw data into charts, graphs, maps, dashboards and stories.
+Tableau mainly focuses on visual data analysis. Users can create visualizations by dragging and dropping fields into the workspace instead of writing complex programming code. 
+It allows users to explore data, identify patterns and understand information easily.
+Tableau supports the complete data analysis process, including connecting to data sources, preparing data, creating worksheets, applying filters, designing dashboards and presenting insights through stories.
+It is widely used in business, education, finance, marketing, healthcare, human resources and other fields where data must be analysed and presented clearly.
+
+
+//Objectives of Tableau:
+-> To convert raw data into meaningful visualizations.
+-> To explore and analyze data interactively.
+-> To identify trends, patterns and relationships.
+-> To compare values across different categories.
+-> To create geographical maps and charts.
+-> To develop interactive dashboards.
+-> To present analytical results effectively.
+
+//Important Tableau Products
+1.Tableau Desktop: Used to connect to data and create worksheets, dashboards and stories.
+2.Tableau Public: A free platform for creating and publicly sharing visualizations.
+3.Tableau Server: Used by organizations to publish, manage and share Tableau content.
+4.Tableau Cloud: A cloud-based platform for publishing and collaborating on visualizations.
+5.Tableau Prep: Used to clean, combine and organize data before analysis.
+
+//Main Features of Tableau:
+* Drag-and-drop interface for creating charts.
+* Supports multiple data sources.
+* Provides interactive filters and tooltips.
+* Supports geographical maps.
+* Allows calculated fields and data aggregation.
+* Provides worksheets, dashboards and stories.
+* Supports data exploration and highlighting.
+* Enables sharing of visualizations.
+
+//Tableau Data Concepts:
+1.Dimensions:
+Dimensions are descriptive fields used to classify data into categories. Examples include Product, Region, City, Department and Customer.
+2.Measures:
+Measures are numerical fields used for calculations and comparisons. Examples include Sales, Profit, Quantity and Salary. Common operations include SUM, AVG, MIN, MAX and COUNT.
+3.Discrete Fields
+Discrete fields display separate categories or individual values. They are useful for comparing regions, products and other groups.
+4.Continuous Fields
+Continuous fields represent a range of numerical or date values. They are commonly used to display trends and numerical relationships.
+5.Data Types
+Tableau supports data types such as text, numbers, dates, date-times, Boolean values and geographical data. Selecting the correct data type helps ensure accurate analysis.
+
+
+//Tableau Interface:
+-> Data Pane: Displays the available data fields, dimensions and measures.
+-> Rows Shelf: Controls the vertical arrangement of data in a worksheet.
+-> Columns Shelf: Controls the horizontal arrangement of data.
+-> Marks Card: Controls colour, size, labels, shape, detail and tooltips.
+-> Filters Shelf: Allows users to display only selected data.
+-> Pages Shelf: Displays different subsets of data one at a time.
+-> Show Me: Suggests suitable chart types based on the selected fields.
+-> Worksheet: Used to create an individual chart or visualization.
+-> Dashboard: Combines multiple worksheets into a single view.
+-> Story: Presents worksheets and dashboards in a sequence to explain findings.
+
+//Tableau Data Sources:
+1.Tableau can connect to various types of data sources, such as:
+2.Excel files.
+3.CSV and text files.
+4.Relational databases.
+5.Cloud-based data sources.
+6.Published Tableau data sources.
+7.Supported business and analytical systems.
+
+
+//Types of Tableau Visualizations
+- Bar Chart: Used to compare values across different categories.
+- Line Chart: Used to display trends and changes over time.
+- Pie Chart: Used to represent proportions of a whole.
+- Scatter Plot: Used to examine relationships between two numerical variables.
+- Maps: Used to visualize geographical data by city, state or country.
+- Heat Map: Uses colour intensity to identify high and low values.
+- Tree map: Displays hierarchical data using rectangles of different sizes.
+- Histogram: Shows the frequency distribution of numerical data.
+
+//Filters and Interactivity:
+Filters help users display specific information based on categories, dates, regions or other fields. They make dashboards more interactive and allow users to explore data without creating new charts.
+Tooltips display additional information when the pointer is placed over a chart element. Highlighting helps users focus on selected values, while parameters allow users to modify certain analytical inputs.
+
+//Calculated Fields:
+Calculated fields are used to generate new values from existing data using formulas. They can be used to calculate profit ratios, percentages, growth rates and other useful analytical measures.
+
+//Dashboards:
+* A dashboard combines multiple visualizations into a single screen for easy analysis. It may contain:
+* Summary values and key performance indicators.
+* Bar charts and line charts.
+* Maps and other visualizations.
+* Filters and legends.
+* Titles and explanatory text.
+* A well-designed dashboard should have a clear layout, readable labels and consistent formatting.
+
+//Stories:
+Tableau Stories present data analysis in a sequence of worksheets or dashboards. They help explain findings step by step, such as overall sales, category comparisons, regional performance and changes over time.
+
+##Advantages of Tableau:
+-> Simple and user-friendly interface.
+-> Quick creation of charts and dashboards.
+-> Supports different data sources.
+-> Provides interactive data analysis.
+-> Offers geographical mapping features.
+-> Supports calculations and aggregation.
+-> Useful for business intelligence and reporting.
+-> Helps communicate insights clearly.
+
+##Limitations of Tableau
+-> Some advanced features require paid products.
+-> Large workbooks may need more computing resources.
+-> Creating effective dashboards requires practice.
+-> Incorrect data preparation may produce misleading results.
+-> Public visualizations must not contain confidential information.
+
+
+//Applications of Tableau
+* Tableau is used in the following areas:
+* Sales and revenue analysis.
+* Financial reporting.
+* Marketing performance analysis.
+* Student performance evaluation.
+* Human resource management.
+* Operational reporting.
+* Geographical data analysis.
+* Business management dashboards.
+
+//Installation of Tableau Public
+* Open a web browser.
+* Visit the official Tableau Public website.
+* Download Tableau Public for the supported operating system.
+* Open the downloaded installer.
+* Follow the installation instructions.
+* Complete the installation process.
+* Launch Tableau Public.
+* Sign in or create an account if required.
+* Check that the Tableau Home screen appears.
+
+
+//Sample Output:
+* Tableau Public was downloaded successfully.
+* The installation process was completed.
+* Tableau Public was opened successfully.
+* The Home screen was displayed.
+* The available connection and workbook options were identified.
+* The Tableau workspace was ready for creating visualizations.
+
+//Result:
+Thus, Tableau Public was installed successfully, and its features, products, interface, data concepts, visualization types, dashboards, stories and basic workflow were studied.
